@@ -1,0 +1,3 @@
+IA01, 3A, 1667.00, 87.99, Bernardo Neves, 123456789,
+IA02, 4E, 0.00, 999.99, Nicolae Malai, 123459876,
+IA03, 2B, 0.00, 420.69, Joni Antunes, 987654321,
